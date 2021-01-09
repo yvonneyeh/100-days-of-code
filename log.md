@@ -1,30 +1,34 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0:
 ##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+Will come back and add comments about the first week of Hackbright!
 
 
-### Day 1: June 27, Monday
+### Day 1: Thursday, January 7, 2021
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+Hackbright Day 4!
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**: 
+Lectures: list slicing, computer memory, 
+Labs: building a calculator
+
+**Thoughts**: I really enjoyed the computer memory lecture, I learned a lot of info that seemed vaguely familiar but now I can put a name to. Feeling confident with list slicing, it was nice to teach my pair programming partner when she had some trouble while navigating while I was driving – helped me to solidify my own understanding of the concepts in application. 
+
+**Link(s) to work**: 
+1. [Calculator-1](https://github.com/yvonneyeh/calculator-1)
+2. [Calculator-2](https://github.com/yvonneyeh/calculator-2)
+3. [List Slicing](https://github.com/yvonneyeh/list-slicing)
+
+
+
+### Day 2: Friday, January 8, 2021
+
+**Today's Progress**: 
+Lectures: collections
+Labs: data structures - working with lists, tuples, sets
+
+**Thoughts** I feel like I have a pretty good grasp of the theory, but struggling a lot with applying new knowledge while actually sitting down to code. Didn't have a chance to take a lunch break because my pair programming partner and I were so close to completing the lab. I need to remind myself to take more breaks.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Data Structures](https://github.com/yvonneyeh/data-structures)
