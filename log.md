@@ -73,13 +73,14 @@ Labs: data structures - working with lists, tuples, sets
 
 ### Day 6: Tuesday, January 12, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Markov chains, more dictionaries, UNIX command line programs, shell environments.
 
 
-**Thoughts** 
+**Thoughts** Markov chains were very interesting. I see a lot of fun application scenarios for this on Twitter. Got to practice a lot more with creating a dictonary of Markov chains with my pair programming partner. I thought my partner and I were very compatible in skill level and communication, and it was really great to work with her for both of the lab sessions today. We made a lot of progress together and figured out how to debug together. The lecture about UNIX command line programs and shell environments totally went over my head. I have the knowledge in my brain now (kinda), but I have no idea what a use case scenario would be yet. A lot of people seemed to have trouble with the homework from last night, like I did. I'm still not feeling very confident with dictionaries, definitely need to practice working with them a bit more until I can feel comfortable with them.
 
 **Link(s) to work**
-1. [GitHub](https://github.com/yvonneyeh)
+1. [Markov Chains](https://github.com/yvonneyeh/markov-chains)
+2. [Salesperson Report](https://github.com/yvonneyeh/salesperson-report)
 
 
 
