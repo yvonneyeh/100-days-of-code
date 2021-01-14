@@ -86,13 +86,13 @@ Labs: data structures - working with lists, tuples, sets
 
 ### Day 7: Wednesday, January 13, 2021
 
-**Today's Progress**: 
+**Today's Progress**: virtual environments, class attributes, object-oriented drawing, "if dunder name equals dunder main" (__mifflin__ lol) 📄 
 
 
-**Thoughts** 
+**Thoughts** Every day we seem to learn something brand new that I have no idea what to envision as its use case. Trying to trust in the process and remember that the information will be useful later. Felt really tired today, didn't sleep well last night and found myself spacing off during lecture and making lots of errors in my notes. My VM was also crashing a lot or disconnecting/hanging, the only way I could resolve it was to shut down the VM and force quit…
 
 **Link(s) to work**
-1. [GitHub](https://github.com/yvonneyeh)
+1. [Object-Oriented Drawing](https://repl.it/@yvonneyeh/OO-Drawing)
 
 
 
