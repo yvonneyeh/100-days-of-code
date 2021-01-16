@@ -98,22 +98,22 @@ Labs: data structures - working with lists, tuples, sets
 
 ### Day 8: Thursday, January 14, 2021
 
-**Today's Progress**: 
+**Today's Progress**: learned more about superclasses/subclasses, dry code, and got to practice using classes more
 
-
-**Thoughts** 
+**Thoughts** I'm starting to understand classes. I think I may have accidentally read too far on the lab from Classes Part 1, and was confused, but now everything makes a lot more sense. I felt confident during pair programming today and felt like I understood what I was doing. My pair and I even managed to do some of the further study work that was optional because we finished our lab early! Even though I don't think our communication was smooth 100% of the time, it felt like the smoothest, and most streamlined lab yet, simply because there weren't many issues that were popping up. Just need to remind myself to run code often to test if it breaks, rather than waiting too long and not being able to figure out why it breaks. Because it will break, eventually, until I can fix it :)
 
 **Link(s) to work**
-1. [GitHub](https://github.com/yvonneyeh)
+1. [Object Oriented Programming Practice](https://github.com/yvonneyeh/oo-melons)
+2. [Classes Practice](https://github.com/yvonneyeh/melon-production)
+3. [_ _ init _ _](https://github.com/yvonneyeh/oo-practice-melons)
 
 
 
 ### Day 9: Friday, January 15, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Career discussion, self-study, review
 
-
-**Thoughts** 
+**Thoughts** Today I met with my advisor for the first time. He was very reassuring and reminded me that feeling lost is normal in a bootcamp. It's an instense learning environment and natural to feel like I'm behind. He also said it's normal to feel like I don't understand something fully until a few days or weeks later after you have an opportunity to apply the concepts in practice. I asked if he had practice problems for me, but he recommended I just go back to the old labs and homework assignments and redo them. We all an opportunity to review some work on our own, I want to be better about self-guided studying and review. I didn't feel like I utilized my time super effectively. Next Friday, I think I'll try to stay in a study hall and maybe work with (or around) others so we can bounce ideas off each other and keep ourselves motivated.
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
