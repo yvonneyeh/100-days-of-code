@@ -55,7 +55,7 @@ Labs: data structures - working with lists, tuples, sets
 **Thoughts** Not a lot of new coding, mostly just reviewing and editing. Feeling good after my first assessment. Pushed to github classroom for the first time and the mobile UI is interesting.
 
 **Link(s) to work**
-1. [Skills Assessment](https://github.com/hackbrightassessments/skills-1-yvonneyeh)
+1. [Skills Assessment #1](https://github.com/hackbrightassessments/skills-1-yvonneyeh)
 
 
 
@@ -122,8 +122,31 @@ Labs: data structures - working with lists, tuples, sets
 
 ### Day 10: Saturday, January 16, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Worked on 2nd SKills Assessment
 
+
+**Thoughts**: Practicing dictionaries and OOP, I struggled with dictionaries and subclasses. I spent many hours trying to figure out the syntax for the programs I was creating. Taking a break definitely helped.
+
+**Link(s) to work**
+1. [Skills Assessment #2](https://github.com/hackbrightassessments/skills-2-yvonneyeh)
+
+
+
+### Day 11: Sunday, January 17, 2021
+
+**Today's Progress**: Worked on 2nd Skills Assessment
+
+
+**Thoughts** Finished the assessment. I struggled with 2 problems but eventually I was able to simplify the way I was thinking about the problems. I had a lot of extraneous code that was distracting me from coming up with the solution. Make sure to clean up unnecessary code while working so I don't get bogged up by old methods that didn't work in the future!
+
+**Link(s) to work**
+1. [Skills Assessment #2](https://github.com/hackbrightassessments/skills-2-yvonneyeh)
+
+
+
+### Day 12: Monday, January 18, 2021
+
+**Today's Progress**:
 
 **Thoughts** 
 
@@ -132,10 +155,66 @@ Labs: data structures - working with lists, tuples, sets
 
 
 
-### Day 11: Sunday, January 17, 2021
+### Day 13: Tuesday, January 19, 2021
 
-**Today's Progress**: 
+**Today's Progress**:
 
+**Thoughts** 
+
+**Link(s) to work**
+1. [GitHub](https://github.com/yvonneyeh)
+
+
+
+### Day 14: Wednesday, January 20, 2021
+
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [GitHub](https://github.com/yvonneyeh)
+
+
+
+### Day 15: Thursday, January 21, 2021
+
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [GitHub](https://github.com/yvonneyeh)
+
+
+
+### Day 16: Friday, January 22, 2021
+
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [GitHub](https://github.com/yvonneyeh)
+
+
+
+
+### Day 17: Saturday, January 23, 2021
+
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [GitHub](https://github.com/yvonneyeh)
+
+
+
+
+### Day 18: Sunday, January 24, 2021
+
+**Today's Progress**:
 
 **Thoughts** 
 
