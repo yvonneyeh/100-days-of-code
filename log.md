@@ -146,45 +146,49 @@ Labs: data structures - working with lists, tuples, sets
 
 ### Day 12: Monday, January 18, 2021
 
-**Today's Progress**:
+**Today's Progress**: Reviewed dictionaries on codeacademy.com
 
-**Thoughts** 
+**Thoughts** A little bit of a rest day, no code coding, but did some review on concepts that I've found challenging.
 
 **Link(s) to work**
-1. [GitHub](https://github.com/yvonneyeh)
+1. [CodeAcademy - Dictionaries](https://www.codecademy.com/courses/learn-python-3/lessons/dictionaries-introduction/resume)
 
 
 
 ### Day 13: Tuesday, January 19, 2021
 
-**Today's Progress**:
+**Today's Progress**: Web dev! 
 
-**Thoughts** 
+**Thoughts** Finally something that isn’t brand new to me. Got to practice HTML/CSS and see if the stuff I learned from geocities/HS/college is still relevant and even accurate lol
 
 **Link(s) to work**
-1. [GitHub](https://github.com/yvonneyeh)
+1. [HTML Forms](https://github.com/yvonneyeh/html-forms)
+2. [CSS Trials](https://github.com/yvonneyeh/css-trials)
 
 
 
 ### Day 14: Wednesday, January 20, 2021
 
-**Today's Progress**:
+**Today's Progress**: Intro to Flask and Jinja2. Made a super simple web app with the Flask library and another web app to play a Mad Libs style game 🌶
 
-**Thoughts** 
+**Thoughts** New to me content but rooted in web, which made it conceptually easier to understand today. I felt like the lab went very smoothly and we even finished everything on time!
 
 **Link(s) to work**
-1. [GitHub](https://github.com/yvonneyeh)
+1. [MadLibs](https://github.com/yvonneyeh/madlibs)
+2. [Contact Page](https://github.com/yvonneyeh/edit-contact-page)
+3. [Flask Intro](https://github.com/yvonneyeh/flask-intro)
 
 
 
 ### Day 15: Thursday, January 21, 2021
 
-**Today's Progress**:
+**Today's Progress**: Discussed how the web works, cookies, and flask sessions. Worked on building a simple shopping website.
 
-**Thoughts** 
+**Thoughts** This week has been a great boost to my self-esteem, after a really challenging week last week where I felt like I wasn't understanding anything, it was great to have a week with some review and some new concepts to layer into my existing knowledge. I felt very comfortable and confident in pair programming and was able to help out my partners during the labs, which helped me understand my own understanding better too.
 
 **Link(s) to work**
-1. [GitHub](https://github.com/yvonneyeh)
+1. [PS1 Presentation](https://github.com/yvonneyeh/ps1)
+2. [Shopping Site](https://github.com/yvonneyeh/shopping-site)
 
 
 
