@@ -194,33 +194,270 @@ Labs: data structures - working with lists, tuples, sets
 
 ### Day 16: Friday, January 22, 2021
 
-**Today's Progress**:
+**Today's Progress**: Started working on 2 different web apps, one for myself to convert YouTube music videos into a Spotify playlist and one for our weekly assessment. 
 
-**Thoughts** 
+**Thoughts** Flask is starting to make more sense but Jinja syntax is throwing me off! ⛩
 
 **Link(s) to work**
-1. [GitHub](https://github.com/yvonneyeh)
+1. [Youtube → Spotify Playlist Maker](https://github.com/yvonneyeh/youtube-spotify-playlist)
 
 
 
 
 ### Day 17: Saturday, January 23, 2021
 
-**Today's Progress**:
+**Today's Progress**: Finished up my Flask assessment from yesterday. 
 
-**Thoughts** 
+**Thoughts** Anybody know why CSS styles on a Jinja2 template don’t show up on Chrome but do on Safari and Firefox? 🦊
 
-**Link(s) to work**
-1. [GitHub](https://github.com/yvonneyeh)
+**Link(s) towork**
+1. [Skills Assessment #3](https://github.com/hackbrightassessments/skills-3-yvonneyeh)
 
 
 
 
 ### Day 18: Sunday, January 24, 2021
 
+**Today's Progress**: Understanding Flask template inheritance more!
+
+**Thoughts** Turns out Flask is way easier to use than I though!
+
+**Link(s) to work**
+1. [Skills Assessment #3](https://github.com/hackbrightassessments/skills-3-yvonneyeh)
+
+
+
+### Day 19: Monday, January 25, 2021
+
+**Today's Progress**: Explored APIs, JSON, Python requests library & got a peek into testing and debugging with doctest/unittest 🐛
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [Testing/Debugging Lab](https://github.com/yvonneyeh/testing-py)
+2. [API Lab](https://github.com/yvonneyeh/api-lab)
+
+
+
+
+### Day 20: Tuesday, January 26, 2021
+
+**Today's Progress**: Intro to SQL, SELECT statements, PostgreSQL, aggregate functions. Had a lot of success while playing with tables with my pair programming partner 🗄
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [SQL Quiz](https://github.com/yvonneyeh/sql-quiz)
+2. [SQL Zoo](https://github.com/yvonneyeh/sql-zoo)
+
+
+
+
+### Day 21: Wednesday, January 27, 2021
+
+**Today's Progress**: Little quick intros to TextBlob and sentiment analysis. Spent most of the day reviewing and practicing SQL concepts from yesterday. Learned about and added PostgreSQL, SQLAlchemy, Flask-SQLAlchemy, Psycopg2 to my software stack 🙃
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [SQL Database Lab](https://github.com/yvonneyeh/hackbright.sql)
+2. [Project Tracker - Flask](https://github.com/yvonneyeh/project-tracker-flask)
+
+
+
+
+### Day 22: Thursday, January 28, 2021
+
+**Today's Progress**: Little quick intros to TextBlob and sentiment analysis. Spent most of the day reviewing and practicing SQL concepts from yesterday. Learned about and added PostgreSQL, SQLAlchemy, Flask-SQLAlchemy, Psycopg2 to my software stack 🙃
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [JavaScript → Python](https://github.com/yvonneyeh/js-trials-1)
+1. [Python → JavaScript](https://github.com/yvonneyeh/js-trials-2)
+
+
+
+
+### Day 23: Friday, January 29, 2021
+
+**Today's Progress**: Wrote a little function to print out the templates for these logs! I was doing it by hand and realized I could write it up in no time and save so much time in the future!
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [GitHub](https://github.com/yvonneyeh)
+
+
+
+
+### Day 24: Saturday, January 30, 2021
+
 **Today's Progress**:
 
 **Thoughts** 
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
+
+
+
+
+### Day 25: Sunday, January 31, 2021
+
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [GitHub](https://github.com/yvonneyeh)
+
+
+### Day 26: Monday, February 1, 2021
+
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [GitHub](https://github.com/yvonneyeh)
+
+
+
+
+### Day 27: Tuesday, February 2, 2021
+
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [GitHub](https://github.com/yvonneyeh)
+
+
+
+
+### Day 28: Wednesday, February 3, 2021
+
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [GitHub](https://github.com/yvonneyeh)
+
+
+
+
+### Day 29: Thursday, February 4, 2021
+
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [GitHub](https://github.com/yvonneyeh)
+
+
+
+
+### Day 30: Friday, February 5, 2021
+
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [GitHub](https://github.com/yvonneyeh)
+
+
+
+
+### Day 31: Saturday, February 6, 2021
+
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [GitHub](https://github.com/yvonneyeh)
+
+
+
+
+### Day 32: Sunday, February 7, 2021
+
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [GitHub](https://github.com/yvonneyeh)
+
+
+
+
+### Day 33: Monday, February 8, 2021
+
+**Today's Progress**:
+
+**Link(s) to work**
+1. [GitHub](https://github.com/yvonneyeh)
+
+
+
+### Day 34: Tuesday, February 9, 2021
+
+**Today's Progress**:
+
+**Link(s) to work**
+1. [GitHub](https://github.com/yvonneyeh)
+
+
+
+### Day 35: Wednesday, February 10, 2021
+
+**Today's Progress**:
+
+**Link(s) to work**
+1. [GitHub](https://github.com/yvonneyeh)
+
+
+
+### Day 36: Thursday, February 11, 2021
+
+**Today's Progress**:
+
+**Link(s) to work**
+1. [GitHub](https://github.com/yvonneyeh)
+
+
+
+### Day 37: Friday, February 12, 2021
+
+**Today's Progress**:
+
+**Link(s) to work**
+1. [GitHub](https://github.com/yvonneyeh)
+
+
+
+### Day 38: Saturday, February 13, 2021
+
+**Today's Progress**:
+
+**Link(s) to work**
+1. [GitHub](https://github.com/yvonneyeh)
+
+
+
+### Day 39: Sunday, February 14, 2021
+
+**Today's Progress**:
+
+**Link(s) to work**
+1. [GitHub](https://github.com/yvonneyeh)
+
+
+
