@@ -1,8 +1,11 @@
 # 100 Days Of Code - Log
 
 ### Day 0:
-##### (delete me or comment me out)
-Will come back and add comments about the first week of Hackbright!
+###### First few days of my coding bootcamp! Before I started the #100DaysOfCode challenge –
+
+1. **Hackbright Day 1:** Intro to HB, Algorithms, Pair Programming
+2. **Hackbright Day 2:** VS Code, setting up Vagrant virtual machines - dev. environment, Git
+3. **Hackbright Day 3:** Functions, learhing how to push and pull @ GitHub, built some simple calculators
 
 
 ### Day 1: Thursday, January 7, 2021
