@@ -297,7 +297,7 @@ Labs: data structures - working with lists, tuples, sets
 
 ### Day 24: Saturday, January 30, 2021
 
-**Today's Progress**:
+**Today's Progress**: feeling p good about my SQL assessment, it’s the thing I feel the most comfortable with out of everything I learned this week. I love data and playing with data! Next: figure out what’s conventional with SQL styling and how to refactor 
 
 **Thoughts** 
 
@@ -309,7 +309,7 @@ Labs: data structures - working with lists, tuples, sets
 
 ### Day 25: Sunday, January 31, 2021
 
-**Today's Progress**:
+**Today's Progress**: refactored SQL to make it more readable! Nerd face
 
 **Thoughts** 
 
@@ -319,7 +319,7 @@ Labs: data structures - working with lists, tuples, sets
 
 ### Day 26: Monday, February 1, 2021
 
-**Today's Progress**:
+**Today's Progress**: JavaScript - DOM manipulation & event handling - made a hang man type game! For homework, read about Localtime issues and installed Arrow Python library 🕰
 
 **Thoughts** 
 
@@ -331,7 +331,7 @@ Labs: data structures - working with lists, tuples, sets
 
 ### Day 27: Tuesday, February 2, 2021
 
-**Today's Progress**:
+**Today's Progress**: worked on using AJAX with jQuery implementation and learned a bunch about front-end frameworks • @reactjs @reactnative @babeljs
 
 **Thoughts** 
 
@@ -343,7 +343,7 @@ Labs: data structures - working with lists, tuples, sets
 
 ### Day 28: Wednesday, February 3, 2021
 
-**Today's Progress**:
+**Today's Progress**: All day all SQLAlchemy! Connections between HTML, SQL, Flask, Python, classes, functions to create instances, etc etc etc are loosely starting to come together
 
 **Thoughts** 
 
@@ -355,7 +355,7 @@ Labs: data structures - working with lists, tuples, sets
 
 ### Day 29: Thursday, February 4, 2021
 
-**Today's Progress**:
+**Today's Progress**: Data modeling - relationships, associative entities, more SQLAlchemy. Project season starts next Monday! Figuring out our timeline/planning/scrum will work for the next 4 weeks
 
 **Thoughts** 
 
@@ -367,7 +367,7 @@ Labs: data structures - working with lists, tuples, sets
 
 ### Day 30: Friday, February 5, 2021
 
-**Today's Progress**:
+**Today's Progress**: Python dictionary and JavaScript object review, data modeling practice, resume workshop
 
 **Thoughts** 
 
@@ -379,7 +379,7 @@ Labs: data structures - working with lists, tuples, sets
 
 ### Day 31: Saturday, February 6, 2021
 
-**Today's Progress**:
+**Today's Progress**: applying SQLAlchemy & AJAX knowledge in the weekend assessment – defining model classes shockingly turned out to be the more straightforward task and queries/relationships were the most challenging (flipped compared to past weeks) 
 
 **Thoughts** 
 
@@ -391,7 +391,7 @@ Labs: data structures - working with lists, tuples, sets
 
 ### Day 32: Sunday, February 7, 2021
 
-**Today's Progress**:
+**Today's Progress**: wireframing and data modeling – getting ready project season to start and for our first scrum and sprint meeting tomorrow morning!
 
 **Thoughts** 
 
@@ -403,7 +403,7 @@ Labs: data structures - working with lists, tuples, sets
 
 ### Day 33: Monday, February 8, 2021
 
-**Today's Progress**:
+**Today's Progress**: planning poker, making a kanban, more wireframing and data modeling – this time with friends and books 
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -412,8 +412,12 @@ Labs: data structures - working with lists, tuples, sets
 
 ### Day 34: Tuesday, February 9, 2021
 
-**Today's Progress**:
+**Today's Progress**: intro to Chart.js and D3 JavaScript libraries, (always wondered how 
 
+nytimes
+ handles their data viz and apparently it’s with 
+@d3js_org
+, so cool!), also worked on a React lab for literally 4hrs straight with my pair prog partner and learned so much! Exploding head
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
 
@@ -421,7 +425,7 @@ Labs: data structures - working with lists, tuples, sets
 
 ### Day 35: Wednesday, February 10, 2021
 
-**Today's Progress**:
+**Today's Progress**:  testing my class models, figuring out which tables were middle tables and which were association tables. Started investigating APIs and realized web scraping might be more suitable for my project needs 🕸
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -430,7 +434,7 @@ Labs: data structures - working with lists, tuples, sets
 
 ### Day 36: Thursday, February 11, 2021
 
-**Today's Progress**:
+**Today's Progress**: testing part 2, used a web scraper to create some seed data for my database, played with the Pandas Python library, and unpacked my CSV
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -439,7 +443,7 @@ Labs: data structures - working with lists, tuples, sets
 
 ### Day 37: Friday, February 12, 2021
 
-**Today's Progress**:
+**Today's Progress**: more React, data modeling, and seeding my test database 💢
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -448,7 +452,7 @@ Labs: data structures - working with lists, tuples, sets
 
 ### Day 38: Saturday, February 13, 2021
 
-**Today's Progress**:
+**Today's Progress**: got over some tasks that were blocking me from making progress with my project – added some new routes to my web app and fixed some SQLAlchemy queries
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
