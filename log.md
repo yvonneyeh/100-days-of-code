@@ -461,10 +461,72 @@ nytimes
 
 ### Day 39: Sunday, February 14, 2021
 
+**Today's Progress**: investigated the @googlemaps API 📍
+
+**Link(s) to work**
+1. [GitHub](https://github.com/yvonneyeh)
+
+
+
+### Day 40: Monday, February 15, 2021
+
+**Today's Progress**: finally finally finally successfully seeded my database! 🍉
+
+**Link(s) to work**
+1. [GitHub](https://github.com/yvonneyeh)
+
+
+
+### Day 41: Tuesday, February 16, 2021
+
 **Today's Progress**:
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
 
+
+
+### Day 42: Wednesday, February 17, 2021
+
+**Today's Progress**:
+
+**Link(s) to work**
+1. [GitHub](https://github.com/yvonneyeh)
+
+
+
+### Day 43: Thursday, February 18, 2021
+
+**Today's Progress**:
+
+**Link(s) to work**
+1. [GitHub](https://github.com/yvonneyeh)
+
+
+
+### Day 44: Friday, February 19, 2021
+
+**Today's Progress**:
+
+**Link(s) to work**
+1. [GitHub](https://github.com/yvonneyeh)
+
+
+
+### Day 45: Saturday, February 20, 2021
+
+**Today's Progress**:
+
+**Link(s) to work**
+1. [GitHub](https://github.com/yvonneyeh)
+
+
+
+### Day 46: Sunday, February 21, 2021
+
+**Today's Progress**:
+
+**Link(s) to work**
+1. [GitHub](https://github.com/yvonneyeh)
 
 
