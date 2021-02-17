@@ -479,7 +479,7 @@ nytimes
 
 ### Day 41: Tuesday, February 16, 2021
 
-**Today's Progress**:
+**Today's Progress**: created seed data for locations and more @googlemaps API tinkering 🌎
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -488,7 +488,7 @@ nytimes
 
 ### Day 42: Wednesday, February 17, 2021
 
-**Today's Progress**:
+**Today's Progress**: first time doing whiteboarding practice!
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
