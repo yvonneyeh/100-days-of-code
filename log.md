@@ -488,7 +488,7 @@ nytimes
 
 ### Day 42: Wednesday, February 17, 2021
 
-**Today's Progress**: first time doing whiteboarding practice!
+**Today's Progress**: first time doing whiteboarding practice! Created search and filter functions. 
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -497,7 +497,7 @@ nytimes
 
 ### Day 43: Thursday, February 18, 2021
 
-**Today's Progress**:
+**Today's Progress**: 
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
