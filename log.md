@@ -497,7 +497,7 @@ nytimes
 
 ### Day 43: Thursday, February 18, 2021
 
-**Today's Progress**: 
+**Today's Progress**: fixed some SQLAlchemy table relationships and started working on some @LeetCode and @hackerrank problems ✅
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -506,7 +506,7 @@ nytimes
 
 ### Day 44: Friday, February 19, 2021
 
-**Today's Progress**:
+**Today's Progress**: more tinkering on the MVP, fixing bugs that just end up creating more new bugs, and whiteboarding practice session 🫖
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -515,7 +515,7 @@ nytimes
 
 ### Day 45: Saturday, February 20, 2021
 
-**Today's Progress**:
+**Today's Progress**: worked on some problems on @hackerrank, then did my first take home interview problem! ❎
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -524,7 +524,7 @@ nytimes
 
 ### Day 46: Sunday, February 21, 2021
 
-**Today's Progress**:
+**Today's Progress**: more @hackerrank practice and review! ❇️
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
