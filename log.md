@@ -533,7 +533,7 @@ nytimes
 
 ### Day 47: Monday, February 22, 2021
 
-**Today's Progress**:
+**Today's Progress**: timely lecture about runtime (realizing how naive some of my solutions are), spent too much time tinkering and breaking my SQLAlchemy relationships… fixing 1 bug creates 2 others 🙃
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
