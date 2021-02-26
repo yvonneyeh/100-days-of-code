@@ -542,7 +542,7 @@ nytimes
 
 ### Day 48: Tuesday, February 23, 2021
 
-**Today's Progress**:
+**Today's Progress**: intro to stacks and queues + hopping in the help queue channel multiple times to finally fix a bug that was keeping my project blocked!
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -551,7 +551,7 @@ nytimes
 
 ### Day 49: Wednesday, February 24, 2021
 
-**Today's Progress**:
+**Today's Progress**: Linked lists. Whiteboarding practice with dictionary, loops, sets, and runtime.
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -560,7 +560,7 @@ nytimes
 
 ### Day 50: Thursday, February 25, 2021
 
-**Today's Progress**:
+**Today's Progress**: Halfway to 100! Trees, binary search trees. Created routes for users in my app.
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
