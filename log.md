@@ -569,7 +569,7 @@ nytimes
 
 ### Day 51: Friday, February 26, 2021
 
-**Today's Progress**:
+**Today's Progress**: implemented some jQuery/AJAX, read some Bootstrap docs, and was extremely confused when console.log() wasn’t printing anything 🤔
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -578,7 +578,7 @@ nytimes
 
 ### Day 52: Saturday, February 27, 2021
 
-**Today's Progress**:
+**Today's Progress**: skills assessment and discussion questions on stacks, queues, trees, linked lists, and runtime 📈
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -587,7 +587,7 @@ nytimes
 
 ### Day 53: Sunday, February 28, 2021
 
-**Today's Progress**:
+**Today's Progress**: fixing SQLAlchemy relationships and queries – discovered ILIKE, and switched to using that for my project queries instead of LIKE 🖇
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -605,7 +605,7 @@ nytimes
 
 ### Day 55: Tuesday, March 2, 2021
 
-**Today's Progress**:
+**Today's Progress**: 
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
