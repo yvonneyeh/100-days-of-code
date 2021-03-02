@@ -596,7 +596,7 @@ nytimes
 
 ### Day 54: Monday, March 1, 2021
 
-**Today's Progress**:
+**Today's Progress**: exploring recursions & tinkering with my bootstrap nav bar 🔃
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
