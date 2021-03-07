@@ -605,7 +605,7 @@ nytimes
 
 ### Day 55: Tuesday, March 2, 2021
 
-**Today's Progress**: 
+**Today's Progress**: working with JavaScript mostly today and got my jQuery hide/show toggle to work! 👀
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -614,7 +614,7 @@ nytimes
 
 ### Day 56: Wednesday, March 3, 2021
 
-**Today's Progress**:
+**Today's Progress**: sorting algorithms: bubble sort, merge sort, quicksort, python timsort… realizing that I’m not good at memorizing algorithms 🔢
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -623,7 +623,7 @@ nytimes
 
 ### Day 57: Thursday, March 4, 2021
 
-**Today's Progress**:
+**Today's Progress**: Python data structures and their runtime characteristics/complexities. Added a lot of new seed data to fill out my database, feature freeze is tomorrow! 🏃🏻
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -632,7 +632,7 @@ nytimes
 
 ### Day 58: Friday, March 5, 2021
 
-**Today's Progress**:
+**Today's Progress**: styling Google Map and markers, jQuery/AJAX autocomplete using SQLAlchemy database, final touches before feature freeze! ❄️
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
