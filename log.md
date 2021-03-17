@@ -641,7 +641,7 @@ nytimes
 
 ### Day 59: Saturday, March 6, 2021
 
-**Today's Progress**:
+**Today's Progress**: abstract classes and scope practice problems on HackerRank
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -650,7 +650,7 @@ nytimes
 
 ### Day 60: Sunday, March 7, 2021
 
-**Today's Progress**:
+**Today's Progress**: Python try/except exercise + making a Discord not to save bookmarks Bookmark
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -659,7 +659,7 @@ nytimes
 
 ### Day 61: Monday, March 8, 2021
 
-**Today's Progress**:
+**Today's Progress**: styling starts now! Fixed some Bootstrap columns and implemented a Chart.js graph Bar chart
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -668,7 +668,7 @@ nytimes
 
 ### Day 62: Tuesday, March 9, 2021
 
-**Today's Progress**:
+**Today's Progress**: system design & scaling - load balancer, micro service vs. monolith, de/normalization, database sharding and replication, caching. project: CSS, Google Maps, styling, showing/hiding forms 🗺
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -677,7 +677,7 @@ nytimes
 
 ### Day 63: Wednesday, March 10, 2021
 
-**Today's Progress**:
+**Today's Progress**: git data structures lecture (how do you change your default branch from master to main?) , then worked on my forms and formatting some json for my maps for hours and hours
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -686,7 +686,7 @@ nytimes
 
 ### Day 64: Thursday, March 11, 2021
 
-**Today's Progress**:
+**Today's Progress**: whiteboarding practice, incorporating Twilio SendGrid API to send out some emails (after many unsuccessful attempts with Flask-Mail and Gmail)
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -695,7 +695,7 @@ nytimes
 
 ### Day 65: Friday, March 12, 2021
 
-**Today's Progress**:
+**Today's Progress**: pretty much all HMTL and CSS today – why does one misplaced </div> do so much damage? also this comic is too true
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -704,7 +704,7 @@ nytimes
 
 ### Day 66: Saturday, March 13, 2021
 
-**Today's Progress**:
+**Today's Progress**: practiced some stacks/queues and sorting algorithms, working on my readme, script, and profile for my project next
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -713,7 +713,7 @@ nytimes
 
 ### Day 67: Sunday, March 14, 2021
 
-**Today's Progress**:
+**Today's Progress**: a little more HackerRank and README/script editing! ✏️
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -722,7 +722,7 @@ nytimes
 
 ### Day 68: Monday, March 15, 2021
 
-**Today's Progress**:
+**Today's Progress**: script, screencasts, data model, tech stack, readme!! 1 more day of this project! 📕
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -731,7 +731,7 @@ nytimes
 
 ### Day 69: Tuesday, March 16, 2021
 
-**Today's Progress**:
+**Today's Progress**: a little bit of practice with binary search trees + spent most of the day editing my demo reel video 📽
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
