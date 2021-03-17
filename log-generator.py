@@ -1,4 +1,4 @@
-days_of_week = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+days_of_week = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday','Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
 
 
 def print_logs():
@@ -6,10 +6,10 @@ def print_logs():
     for day in days_of_week:
         # if date <= 28:
         weekday = days_of_week[n]
-        count = 33 + n
-        date = 8 + n
+        count = 54 + n
+        date = 1 + n
         n += 1
-        print(f'### Day {count}: {weekday}, February {date}, 2021')
+        print(f'### Day {count}: {weekday}, March {date}, 2021')
         print()
         print('**Today\'s Progress**:')
         print()
