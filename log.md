@@ -740,7 +740,7 @@ nytimes
 
 ### Day 70: Wednesday, March 17, 2021
 
-**Today's Progress**: DEMO DAY!
+**Today's Progress**: DEMO DAY! Pitched my app and got to watch everyone’s demo videos. It’s hard to feel proud about your own work when you’ve been looking at the code everyday, it was so easy though to admire the projects of everyone else! We’ve learned a lot. Met with some company reps and wished this event could have been in-person but c’est la vie!
 
 **Bookish Bay Area**
 1. [GitHub Repo](https://github.com/yvonneyeh/bookish-bay-area)
@@ -750,7 +750,7 @@ nytimes
 
 ### Day 71: Thursday, March 18, 2021
 
-**Today's Progress**:
+**Today's Progress**: whiteboarding practice with OneSignal, then some review of linked lists, trees, and graphs 1️⃣
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -759,7 +759,7 @@ nytimes
 
 ### Day 72: Friday, March 19, 2021
 
-**Today's Progress**:
+**Today's Progress**: more tinkering/debugging on my project, then got to listen to an amazing amazing talk/AMA by Robin Hunicke from Funomena – what an inspiring story about her journey in the gaming industry! 🎮 #WomenWhoCode
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -768,7 +768,7 @@ nytimes
 
 ### Day 73: Saturday, March 20, 2021
 
-**Today's Progress**:
+**Today's Progress**: review & assessment on graphs, recursion, runtime 🔄
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -777,7 +777,7 @@ nytimes
 
 ### Day 74: Sunday, March 21, 2021
 
-**Today's Progress**:
+**Today's Progress**: Exploring create-react-app! We weren’t allowed to use it for our projects so taking some time to look into it on my own 🌀
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -786,7 +786,7 @@ nytimes
 
 ### Day 75: Monday, March 22, 2021
 
-**Today's Progress**:
+**Today's Progress**: decorators, syntactic sugar, recursion, and brainstorming a new @discord bot to pair program 🤖
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
@@ -795,7 +795,7 @@ nytimes
 
 ### Day 76: Tuesday, March 23, 2021
 
-**Today's Progress**:
+**Today's Progress**: katas, deployment, negotiation, then some (read: a lot of) trial and error with @heroku and a little @reactjs practice 🥷
 
 **Link(s) to work**
 1. [GitHub](https://github.com/yvonneyeh)
