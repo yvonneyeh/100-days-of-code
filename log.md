@@ -740,10 +740,11 @@ nytimes
 
 ### Day 70: Wednesday, March 17, 2021
 
-**Today's Progress**:
+**Today's Progress**: DEMO DAY!
 
-**Link(s) to work**
-1. [GitHub](https://github.com/yvonneyeh)
+**Bookish Bay Area**
+1. [GitHub Repo](https://github.com/yvonneyeh/bookish-bay-area)
+2. [YouTube Video](https://github.com/yvonneyeh/bookish-bay-area)
 
 
 
